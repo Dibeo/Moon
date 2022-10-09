@@ -1,0 +1,36 @@
+body{
+    background: url(background.jpg) fixed;
+}
+
+h1 {
+    color: whitesmoke;
+    font-size:750%;
+    position: absolute;
+    top: 120px; left: 10px;
+    font-family: sans-serif;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: #082441;
+    color: #fff;
+}
+
+p {
+    font-size:117%;
+    color: white;
+    font-family: sans-serif;
+    border-style: groove;
+}
+
+.moon{
+    width : 800px;
+    height : 800px;
+
+    text-align :center;
+    margin-top : 50px;
+    display : flex ;
+    margin-left: 25%; 
+}
